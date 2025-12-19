@@ -4,7 +4,7 @@
 **View, organize, and comment on Rhino (.3dm), STEP, STL, and OBJ files directly in your browser.**
 
 [![Try It Online](https://img.shields.io/badge/Launch-Open%20Web%20App-blue?style=for-the-badge&logo=google-chrome)](https://3dviewer.co)
-[![Install from Workspace](https://img.shields.io/badge/Install-Google%20Workspace-green?style=for-the-badge&logo=google-drive)](https://workspace.google.com/marketplace/app/3d_viewer_for_google_drive/645658098923) ---
+[![Install from Workspace](https://img.shields.io/badge/Install-Google%20Workspace-green?style=for-the-badge&logo=google-drive)](https://workspace.google.com/marketplace/app/3d_viewer_for_google_drive/645658098923)
 
 ## 🚀 Overview
 
@@ -50,7 +50,7 @@ We built this tool for professionals who are under NDA.
 Found a bug? Want support for a new file format?
 Please open an issue in this repository!
 
-[**Open New Issue**](https://github.com/rhovium/google-drive-3d-viewer/issues/new)
+[**Open New Issue**]([https://github.com/rhovium/google-drive-3d-viewer/issues/new](https://github.com/Rhovium/3D-Viewer-for-Google-Drive/issues/new))
 
 ---
 
