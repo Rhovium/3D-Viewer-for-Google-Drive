@@ -21,12 +21,13 @@ It solves the "Download Fatigue" problem for engineers and designers. Instead of
 ### 1. Visual Asset Manager (Gallery Mode)
 Browse your Drive folders visually. 3D Viewer automatically generates thumbnails for your CAD files, turning your storage into a Digital Asset Manager.
 
-![Gallery View]([https://3dviewer.co/assets/gallery-screenshot.png](https://firebasestorage.googleapis.com/v0/b/drive3dviewer.firebasestorage.app/o/public%2Fgallery1.png?alt=media)) 
+![Gallery View](https://firebasestorage.googleapis.com/v0/b/drive3dviewer.firebasestorage.app/o/public%2Fgallery1.png?alt=media)
+
 ### 2. Professional Inspection & Comments
 Inspect topology, measure distances, and pin comments directly to the 3D geometry for precise team feedback.
 
-![Viewer Interface]([https://3dviewer.co/assets/viewer-screenshot.png](https://firebasestorage.googleapis.com/v0/b/drive3dviewer.firebasestorage.app/o/public%2Fviewer.png?alt=media))
----
+![Viewer Interface](https://firebasestorage.googleapis.com/v0/b/drive3dviewer.firebasestorage.app/o/public%2Fviewer.png?alt=media)
+
 
 ## ✨ Key Features
 
@@ -36,8 +37,6 @@ Inspect topology, measure distances, and pin comments directly to the 3D geometr
 * **Collaboration:** Context-aware commenting system. Click a vertex -> Leave a note.
 * **Google Integration:** Works with the "Open With" menu in Drive.
 
----
-
 ## 🔒 Privacy & Security
 
 We built this tool for professionals who are under NDA.
@@ -46,14 +45,12 @@ We built this tool for professionals who are under NDA.
 * **OAuth Scopes:** We strictly use `drive.file`, meaning we only have access to the specific files you choose to open. We cannot scan your entire Drive.
 * **Data Sovereignty:** Your IP stays in your Google Drive.
 
----
-
 ## 🐞 Bug Reports & Feature Requests
 
 Found a bug? Want support for a new file format?
 Please open an issue in this repository!
 
-[**Open New Issue**](https://github.com/YOUR_USERNAME/google-drive-3d-viewer/issues/new)
+[**Open New Issue**](https://github.com/rhovium/google-drive-3d-viewer/issues/new)
 
 ---
 
