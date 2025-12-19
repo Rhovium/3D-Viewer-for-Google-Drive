@@ -50,7 +50,7 @@ We built this tool for professionals who are under NDA.
 Found a bug? Want support for a new file format?
 Please open an issue in this repository!
 
-[**Open New Issue**]([https://github.com/rhovium/google-drive-3d-viewer/issues/new](https://github.com/Rhovium/3D-Viewer-for-Google-Drive/issues/new))
+[**Open New Issue**][Report an issue/Feature request](https://github.com/Rhovium/3D-Viewer-for-Google-Drive/issues/new)
 
 ---
 
